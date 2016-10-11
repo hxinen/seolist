@@ -6,16 +6,8 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 
 =================
 
-  - [Analytics](#analytics)
-  - [Automation](#automation)
-  - [Blogging Platforms](#blogging-platforms)
-  - [Bookmarks & Link Sharing](#bookmarks--link-sharing)
-  - [Calendar and Address Books](#calendar-and-address-books)
-  - [Communication systems](#communication-systems)
-    - [Custom](#custom)
-    - [Email](#email)
-      - [Complete solutions](#complete-solutions)
-      - [Mail Transfer Agents](#mail-transfer-agents)
-      - [Mail Delivery Agents](#mail-delivery-agents)
-      - [Mailing lists and newsletters](#mailing-lists-and-newsletters)
-      - [Webmail clients](#webmail-clients)
+  - [Backlink Investigation](#backlink)
+  - [Server Investigation](#server-check)
+  - [Website Crawling & Link Checking](#link-check)
+  - [Keyword Research](#keywords
+
