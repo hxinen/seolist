@@ -24,10 +24,10 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Majestic SEO Site Explorer: http://www.majesticseo.com/
 * Ahrefs Site Explorer: http://ahrefs.com/
 * Serpstat: https://serpstat.com/
-* ubersuggest.io
-* lsigraph.com
-* thesaurrus.com (For synonyms of niche)
-* keywordshitter.com
+* CalcSEO: http://www.calcseo.com/
+* Check My Links: https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf?hl=en-GB
+* LinkMiner: http://pointblankseo.com/linkminer
+* Skyrocket Similar Content Prospecting Tool: https://skyrocket.digital
 
 
 ## Backlink Investigation
@@ -66,7 +66,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 **[`^        back to top        ^`](#)**
 
 
-* Open Site Explorer: http://www.opensiteexplorer.org/
-* Majestic SEO Site Explorer: http://www.majesticseo.com/
-* Ahrefs Site Explorer: http://ahrefs.com/
-* Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
+* Uber Suggest: http://ubersuggest.io
+* Keyword Shitter: http://keywordshitter.com
+* LSI Graph: http://lsigraph.com
+* KeywordBee: http://keywordbee.com/
