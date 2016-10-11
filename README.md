@@ -9,8 +9,8 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
   - [All in One SEO](#all-in-one-seo)
   - [Backlink Investigation](#backlink-investigation)
   - [Server Check](#server-check)
-  - [Website Crawling & Link Checking](#link-check)
-  - [Keyword Research](#keywords)
+  - [Link Check](#link-check)
+  - [Keywords](#keywords)
   
   <!-- BEGIN SOFTWARE LIST -->
   
@@ -51,7 +51,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Ahrefs Site Explorer: http://ahrefs.com/
 * Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
 
-## Website Crawling & Link Checking
+## Link Check
 
 **[`^        back to top        ^`](#)**
 
@@ -61,7 +61,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Ahrefs Site Explorer: http://ahrefs.com/
 * Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
 
-## Keyword Research
+## Keywords
 
 **[`^        back to top        ^`](#)**
 
