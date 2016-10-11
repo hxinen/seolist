@@ -8,7 +8,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 
   - [All in One SEO](#all-in-one-seo)
   - [Backlink Investigation](#backlink-investigation)
-  - [Server Investigation](#server-check)
+  - [Server Check](#server-check)
   - [Website Crawling & Link Checking](#link-check)
   - [Keyword Research](#keywords)
   
@@ -23,7 +23,11 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Open Site Explorer: http://www.opensiteexplorer.org/
 * Majestic SEO Site Explorer: http://www.majesticseo.com/
 * Ahrefs Site Explorer: http://ahrefs.com/
-* Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
+* Serpstat: https://serpstat.com/
+* ubersuggest.io
+* lsigraph.com
+* thesaurrus.com (For synonyms of niche)
+* keywordshitter.com
 
 
 ## Backlink Investigation
@@ -37,7 +41,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
 
 
-## Backlink Investigation
+## Server Check
 
 **[`^        back to top        ^`](#)**
 
@@ -47,4 +51,22 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
 * Ahrefs Site Explorer: http://ahrefs.com/
 * Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
 
+## Website Crawling & Link Checking
 
+**[`^        back to top        ^`](#)**
+
+
+* Open Site Explorer: http://www.opensiteexplorer.org/
+* Majestic SEO Site Explorer: http://www.majesticseo.com/
+* Ahrefs Site Explorer: http://ahrefs.com/
+* Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
+
+## Keyword Research
+
+**[`^        back to top        ^`](#)**
+
+
+* Open Site Explorer: http://www.opensiteexplorer.org/
+* Majestic SEO Site Explorer: http://www.majesticseo.com/
+* Ahrefs Site Explorer: http://ahrefs.com/
+* Link Diagnosis: iAcquire presents Link Diagnosis - examine your link competition
