@@ -9,5 +9,13 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) / Freemium
   - [Backlink Investigation](#backlink)
   - [Server Investigation](#server-check)
   - [Website Crawling & Link Checking](#link-check)
-  - [Keyword Research](#keywords
+  - [Keyword Research](#keywords)
+  
+  <!-- BEGIN SOFTWARE LIST -->
+
+## Backlink Investigation
+
+**[`^        back to top        ^`](#)**
+
+_Backlink_
 
